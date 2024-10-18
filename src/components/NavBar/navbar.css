@@ -1,0 +1,15 @@
+.navbar{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding-top: 20px;
+}
+.navbar .categories{
+    display: flex;
+    gap: 20px;
+    list-style: none;
+    cursor: pointer;
+}
+.navbar .categories .category{
+    font-size: 20px;
+}
